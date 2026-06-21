@@ -4,6 +4,14 @@
 
 The **Inventory Analysis Project** is a machine learning-based analytics system designed to extract insights from inventory, purchase, and vendor invoice data. It uses a SQLite database as the data source and provides predictive models for freight cost estimation and invoice risk detection.
 
+
+## 🌐 Live Demo
+
+🚀 **Streamlit Application:**  
+https://vendor-inventory-analysis.streamlit.app/
+
+---
+
 ## Features
 
 - 📊 Inventory and purchase data analysis
